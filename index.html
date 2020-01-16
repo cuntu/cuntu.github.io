@@ -128,7 +128,7 @@
           base64 = base64.split(",")[1];
           $.ajax({
             type: "post",
-            url: "https://api.bestgu.cn/pic/up.php",
+            url: "https://bestgu.cn/api/pic.php",
             dataType: "json",
             data: { ext: ext, content: base64 },
             async: true,

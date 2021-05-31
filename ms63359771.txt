@@ -1,0 +1,5 @@
+﻿{
+  "Description": "Microsoft 365 的域所有权验证文件 - 放置在网站根目录中",
+  "Domain": "cuntu.github.io",
+  "Id": "7162920b-092c-4780-b2a7-8ce93c1f4c00"
+}
